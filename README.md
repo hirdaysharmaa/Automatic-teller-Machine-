@@ -1,5 +1,7 @@
 # 🏧 ATM Machine Simulator (Python + Streamlit)
 
+Live_DEMO={live}(https://hr2krmiqqdozypppx4vkwx.streamlit.app/)
+
 A beginner-friendly ATM simulation built with **Python OOP**, available in two versions:
 
 1. **Console version** (Jupyter Notebook / `.ipynb`): uses `input()` and `print()`
